@@ -1,8 +1,13 @@
 ###  [Samuel Teka](https://www.https://github.com/samuellmfa)👋
-## order list ##
-1. I’m currently learning socket.io & Typescript
-2. I’m currently working on game-board
-[FrontEnd](https://github.com/mgczarnievicz#frontend):
+Hi! I am Samuel, a Berlin based full stack web developer with a degree in Computer Science.
+#Unordered List
+-I’m currently learning socket.io & Typescript
+-I’m currently working on game-board
+[FrontEnd] (https://github.com/samuellmfa#frontend)
 ---
-[FrontEnd](https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg):
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg):
+---
+[Backend] (https://github.com/samuellmfa#frontend)
+---
+[Other Language] (https://github.com/samuellmfa#frontend)
 
