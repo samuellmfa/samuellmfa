@@ -1,6 +1,6 @@
 ###  [Samuel Teka](https://www.https://github.com/samuellmfa)👋
 Hi! I am Samuel, a Berlin based full stack web developer with a degree in Computer Science.
-#Unordered List
+#Unorder List#
 -I’m currently learning socket.io & Typescript
 -I’m currently working on game-board
 [FrontEnd] (https://github.com/samuellmfa#frontend)
