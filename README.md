@@ -1,6 +1,6 @@
 ###  [Samuel Teka](https://www.https://github.com/samuellmfa)👋
 Hi! I am Samuel, a Berlin based full stack web developer with a degree in Computer Science.
-## order list ##
+##unorder list ##
 -I’m currently learning Ubuntu & Github
 -I’m currently working on Windows
 [FrontEnd] (https://github.com/samuellmfa#frontend)
