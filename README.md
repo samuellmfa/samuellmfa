@@ -7,6 +7,7 @@ Hi! I am Samuel, a Berlin based full stack web developer with a degree in Comput
 ---
 [FrontEnd] (https://github.com/samuellmfa#frontend)
 ---
+![Alt text] (https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg "Optional title")
 (https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg)
 (https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg)
 (https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg)
