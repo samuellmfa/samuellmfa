@@ -2,7 +2,7 @@
 Hi! I am Samuel, a Berlin based full stack web developer with a Bachelors degree in Computer Science.
 ---
 ### currently 
-- I’m learning Ubuntu & Github
+- I’m Currently attending coding Bootcamp learning Web developement and Scripting
 - I’m  working on C# and Asp.net development
 ---
 
