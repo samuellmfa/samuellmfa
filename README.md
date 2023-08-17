@@ -9,6 +9,13 @@
   
 [FrontEnd](https://github.com/samuellmfa#frontend)
   <figure>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+   
 <table cellspacing="0" cellpadding="0" border=0>
     <tr>
       <td>
