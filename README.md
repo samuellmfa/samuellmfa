@@ -12,25 +12,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,angular,azure,bootstrap,c,cs,css,dotnet,html,js,mongodb,nextjs,mysql" />
   </a>
 </p>
    
-<table cellspacing="0" cellpadding="0" border=0>
-    <tr>
-      <td>
-        <figure><img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-plain.svg" width="40" height="40"> </figure></td>
-      <td>
-        <figure>
-    <a link="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40 height="40"></figure></a>
-        </td>
-      <td>
-        <figure>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" width="40" height="40">
-</figure>
-        </td>
-    </tr>
-  </table>
+
           </figure>
    
 ---
