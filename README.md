@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,angular,azure,bootstrap,c,cs,css,dotnet,html,js,mongodb,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,angular,azure,bootstrap,css,html,js" />
   </a>
 </p>
    
@@ -24,15 +24,11 @@
 
 [Backend](https://github.com/samuellmfa#frontend)
 <figure>
-  <table>
-    <tr>
-      <td><figure><img src="https://camo.githubusercontent.com/a30c26e9ffad4c4379b2b178319fb740c78092e6f1d616c5bbc0d4aca27f5bf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7562756e74752f7562756e74752d706c61696e2d776f72646d61726b2e737667" width="40" height="40"></figure></td>
-      <td><figure>
-    <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="40" height="40">
-    </figure></td>
-     <td><figure><img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg" width="40" height="40"></figure></td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,,mongodb,nextjs,mysql" />
+  </a>
+</p>
 </figure> 
 
 ---
