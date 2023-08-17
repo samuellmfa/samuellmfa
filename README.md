@@ -1,5 +1,5 @@
 ###  [Samuel Teka](https://www.https://github.com/samuellmfa)👋
-# ✋ Hi! I am Samuel Teka, a Berlin based full stack web developer.
+ ✋ Hi! I am Samuel Teka, a Berlin based full stack web developer.
 ---
 ### currently 
 - Searching for a Job in fullstack web development 
