@@ -8,20 +8,16 @@
 
   
 [FrontEnd](https://github.com/samuellmfa#frontend)
-[BackEnd](https://github.com/samuellmfa#BackEnd)
-  <figure>
 
+  <figure>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,angular,azure,bootstrap,css,html,js" />
   </a>
 </p>
-   
-
-          </figure>
+</figure>
    
 ---
-
 [Backend](https://github.com/samuellmfa#frontend)
 <figure>
 <p align="center">
