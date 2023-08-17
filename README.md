@@ -1,10 +1,10 @@
 ###  [Samuel Teka](https://www.https://github.com/samuellmfa)👋
-Hi! I am Samuel, a Berlin based full stack web developer with a Bachelors degree in Computer Science.
+# ✋ Hi! I am Samuel Teka, a Berlin based full stack web developer.
 ---
 ### currently 
-- I’m Currently attending coding Bootcamp learning Web developement and Scripting
-- I’m  working on C# and Asp.net development
----
+- Searching for a Job in fullstack web development 
+- Studied Fullstack web development at [SPICED Academy Berlin](https://www.spiced-academy.com/de/berlin)🌶	<img src="https://coursereport-production.imgix.net/uploads/school/logo/323/original/spiced-social-media-icon.png?w=200&h=200" width="40"/> 🌶
+- I have experience working with Asp.net ,SQL server and C#  
 
   
 [FrontEnd](https://github.com/samuellmfa#frontend)
