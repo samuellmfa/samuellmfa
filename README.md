@@ -1,8 +1,8 @@
 ###  [Samuel Teka](https://www.https://github.com/samuellmfa)👋
  ✋ Hi! I am Samuel Teka, a Berlin based full stack web developer.
 ---
-### currently 
-- Studied Fullstack Devops at https://datascientest.com/
+### Currently studying Azure Devops certification
+- Studied  Devops at https://datascientest.com/ 
 - Studied Fullstack web development at [SPICED Academy Berlin](https://www.spiced-academy.com/de/berlin)🌶	<img src="https://coursereport-production.imgix.net/uploads/school/logo/323/original/spiced-social-media-icon.png?w=200&h=200" width="40"/> 🌶
 - I have experience working with Asp.net ,SQL server and C#  
 
